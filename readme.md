@@ -1,6 +1,6 @@
 # insomnia-plugin-faker-qa-infracommerce
 
-O plugin tem a finalidade de gerar dados faker para teste para os projetos de API Infracommerce com alguns dados mais usados.
+O plugin tem a finalidade de gerar dados faker de testes para os projetos de API Infracommerce e perfomance com alguns dados mais usados.
 
 - **Nome Sobrenome**
 - **CPF**
